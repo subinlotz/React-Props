@@ -8,3 +8,5 @@ CSS Organization:
 
 Kept the styles modular by separating them into a dedicated Card.css file, promoting maintainability and scalability.
 
+
+Deployed Link: https://gorgeous-bonbon-a04046.netlify.app/
